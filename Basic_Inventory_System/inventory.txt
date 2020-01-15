@@ -1,0 +1,1 @@
+a123,Dell,A 4k Monitor,Monitor,Dell,3999,259,5,3,2018,10,8,b123,HP,A 1080p Monitor,Monitor,HP,4999,959,5,7,2018,9,8,c123,MSI,A 120fps Monitor,Monitor,MSI,4999,599,8,2,2018,6,2,
